@@ -1,0 +1,2 @@
+I wanted to use MERN stack to complete this project, I am more comfortable in the front-end side using react. Project runs but unfinished.
+I am looking for ways to help better structure my code. 
